@@ -1,6 +1,6 @@
 # SpotifyConcerts
 
-So basically, clone this to your computer and just run ```python playlist_concert_gui.py``` in this directory.
+So basically, clone this to your computer install the dependencies (PIL, pandas, numpy, spotify) and just run ```python playlist_concert_gui.py``` in this directory.
 
 It takes a bit to run so be patient!
 
