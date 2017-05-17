@@ -1,12 +1,5 @@
 # SpotifyConcerts
 
-So basically, clone this to your computer install the dependencies (PIL, pandas, numpy, spotify) and just run ```python playlist_concert_gui.py``` in this directory.
+This is a python application that information Spotify playlists with Songkick's database of concerts. The program generates a list of artists from a given playlist, finds bands that are similar to them, and outputs links and images for concerts coming to your town.
 
-It takes a bit to run so be patient!
-
-Its pretty unstable so good luck!
-
-Let me know if there are any problems.
-
-Thanks,
-Christian
+Install the dependencies (PIL, pandas, numpy, spotify) and just run ```python playlist_concert_gui.py``` in this directory.
